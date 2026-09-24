@@ -170,8 +170,7 @@ PRODUCT
    └── AI Developer Tools
 
 ---
-
-## BUILD LOG
+# BUILD LOG
 
 A snapshot of the products, platforms and engineering work I've contributed to across different domains.
 
