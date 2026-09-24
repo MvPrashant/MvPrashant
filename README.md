@@ -35,7 +35,7 @@ An education and CRM platform built around the complete student journey.
 
 `React` `TypeScript` `Node.js` `PostgreSQL` `Docker`
 
-→ [Explore FinPlan](https://github.com/Krumos-Software)
+→ 
 
 </td>
 
@@ -57,7 +57,7 @@ An AI-powered GitHub pull-request reviewer designed to bring automated engineeri
 
 `TypeScript` `Node.js` `GitHub API` `LLMs`
 
-→ [View AI PR Reviewer](https://github.com/Krumos-Software/krumos-ai-pr-reviewer)
+→ 
 
 </td>
 </tr>
@@ -298,41 +298,6 @@ That's the direction I'm building toward:
 
 **less technology for technology's sake — more thoughtful product engineering.**
 
----
-
-## SELECTED PROJECTS
-
-### `krumos-ai-pr-reviewer`
-
-AI-powered GitHub pull-request review and developer tooling.
-
-→ https://github.com/Krumos-Software/krumos-ai-pr-reviewer
-
-### `finplan-admin-fe`
-
-Administration interface for the FinPlan education platform.
-
-→ https://github.com/Krumos-Software/finplan-admin-fe
-
-### `Finplan_Edu_Server`
-
-Backend services powering FinPlan's education and CRM workflows.
-
-→ https://github.com/Krumos-Software/Finplan_Edu_Server
-
-### `finplan-student-website`
-
-Student-facing web experience within the FinPlan ecosystem.
-
-→ https://github.com/Krumos-Software/finplan-student-website
-
-### `Finplan-Demo`
-
-Product demonstrations and experimentation around the FinPlan platform.
-
-→ https://github.com/Krumos-Software/Finplan-Demo
-
----
 
 ## BEYOND CODE
 
