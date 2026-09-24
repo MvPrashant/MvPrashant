@@ -9,166 +9,184 @@ I work across product engineering, application architecture, frontend, backend, 
 Currently building at **Krumos**, where I work across product and technical direction — turning ideas into products that people can actually use.
 
 ---
+# BUILD LOG
 
-## CURRENTLY BUILDING
+### Products, platforms & engineering work across different domains
 
-<table>
-<tr>
-<td width="50%" valign="top">
+My work has spanned multiple industries, products and technical environments — from healthcare and sustainability to startup ecosystems, real estate, education and AI.
 
-### FINPLAN
+---
 
-**Education · SaaS · CRM**
+## 01 — HEALTHCARE
 
-An education and CRM platform built around the complete student journey.
+### FourC Health
 
-- Student onboarding
-- Leads & admissions
-- Counselling workflows
-- Payments & fee management
-- Course & branch management
-- Roles & hierarchy
-- Student portal
-- Analytics & integrations
+**Healthcare Management Platform · United States**
 
-**Stack**
+A digital healthcare ecosystem focused on personalized primary care and weight management.
+
+**Worked across**
+
+- Patient mobile application
+- EHR application for medical professionals
+- Administrative application
+- Healthcare workflows
+- Scalable application architecture
+
+**Technology**
+
+`React Native` `MongoDB` `AWS`
+
+---
+
+## 02 — CIRCULAR ECONOMY
+
+### Rebound
+
+**Recycling & Sustainability Platform · UAE**
+
+End-to-end software supporting recycling operations, material recovery and sustainability tracking.
+
+**Worked across**
+
+- Material recovery workflows
+- Recycling operations
+- Sustainability tracking
+- Partner integrations
+- Real-time data
+
+**Technology**
+
+`React` `Node.js` `PostgreSQL` `AWS`
+
+---
+
+## 03 — STARTUP ECOSYSTEM
+
+### Ignyte
+
+**Startup Growth Platform · DIFC**
+
+A platform connecting founders, investors and service providers within the DIFC startup ecosystem.
+
+**Worked across**
+
+- Community networking
+- Startup resources
+- Business services
+- Digital marketplace
+- Authentication
+- API integrations
+
+**Technology**
+
+`React Native` `TypeScript`
+
+---
+
+## 04 — REAL ESTATE & DATA
+
+### Xtend
+
+**Real Estate Data Platform · DIFC**
+
+A subscription-based platform providing access to real estate data through APIs.
+
+**Worked across**
+
+- Subscription workflows
+- API access
+- Payment integration
+- MFA
+- RBAC
+- Data protection
+- Enterprise integrations
+
+**Technology**
+
+`React` `Node.js` `TypeScript` `Azure`
+
+---
+
+## 05 — EDUCATION & SAAS
+
+### EduPro
+
+**Education · SaaS · Product Platform**
+
+A product direction focused on building software for education operations and student journeys.
+
+**Areas**
+
+- Student management
+- Admissions
+- CRM workflows
+- Courses
+- Payments
+- Organization management
+- Roles & permissions
+- Analytics
+- Integrations
+
+**Technology**
 
 `React` `TypeScript` `Node.js` `PostgreSQL` `Docker`
 
-→ 
+---
 
-</td>
+## 06 — AI & DEVELOPER TOOLS
 
-<td width="50%" valign="top">
+### AI PR Reviewer
 
-### AI PR REVIEWER
+**AI · GitHub · Developer Automation**
 
-**AI · Developer Tooling**
+An exploration into AI-powered engineering workflows around GitHub pull requests and automated code review.
 
-An AI-powered GitHub pull-request reviewer designed to bring automated engineering feedback directly into the development workflow.
+**Areas**
 
-- GitHub PR integration
-- LLM-powered review
-- Automated feedback
-- Developer workflows
-- Model experimentation
-
-**Stack**
-
-`TypeScript` `Node.js` `GitHub API` `LLMs`
-
-→ 
-
-</td>
-</tr>
-</table>
+- GitHub integrations
+- LLM-powered analysis
+- Automated code review
+- Developer feedback
+- AI workflows
+- Model routing
+- Engineering automation
 
 ---
 
-## WHAT I BUILD
+## 07 — PRODUCT ENGINEERING
+
+Across these products, I've worked on both web and mobile applications, moving between product requirements, user experiences, APIs, databases, integrations and deployment.
 
 ```text
-                         IDEA
-                           │
-                           ▼
-                      PRODUCT
-                           │
-              ┌────────────┴────────────┐
-              │                         │
-              ▼                         ▼
-         EXPERIENCE                  SYSTEM
-         Frontend                    Backend
-              │                         │
-              └────────────┬────────────┘
-                           ▼
-                         DATA
-                           │
-                           ▼
-                       INTEGRATION
-                           │
-                           ▼
-                       DEPLOYMENT
-                           │
-                           ▼
-                          USERS
-```
-
-I enjoy working across the entire path — from understanding the problem and designing the product to building the software, connecting systems and getting it into production.
-
----
-
-## ENGINEERING FOCUS
-
-### BUILD
-
-`TypeScript` · `JavaScript` · `React` · `Next.js` · `React Native` · `Vue.js`
-
-### BACKEND
-
-`Node.js` · `Express.js` · `REST APIs` · `PostgreSQL` · `MongoDB` · `MySQL`
-
-### SYSTEMS
-
-`Docker` · `Git` · `GitHub` · Cloud & Deployment
-
-### ARCHITECTURE
-
-`SaaS Architecture` · `API Design` · `RBAC` · `Role & Permission Systems` · `CRM Systems` · `Multi-branch Systems`
-
-### AI
-
-`LLMs` · `AI Agents` · `MCP` · `Model Routing` · `AI Developer Tooling` · `Automation`
-
----
-
-## PRODUCT ENGINEERING
-
-I don't think of software as a collection of technologies.
-
-The interesting part is the system around them.
-
-```text
-Problem
-  ↓
-User / Business Requirement
-  ↓
-Product Flow
-  ↓
-Architecture
-  ↓
-Implementation
-  ↓
-Integration
-  ↓
-Deployment
-  ↓
-Feedback
-  ↓
-Iteration
-```
-
-My focus is increasingly moving toward **product engineering, architecture and AI-native software** — while continuing to deepen my understanding of backend systems, data modelling and infrastructure.
+PRODUCT
+   │
+   ├── Web Applications
+   ├── Mobile Applications
+   ├── SaaS Platforms
+   ├── APIs
+   ├── CRM Systems
+   ├── Data Platforms
+   └── AI Developer Tools
 
 ---
 
 ## BUILD LOG
 
-Most of my recent engineering work revolves around building products rather than isolated experiments.
+A snapshot of the products, platforms and engineering work I've contributed to across different domains.
 
-### Active work
-
-| Project | Area | Focus |
+| Project / Area | Domain | Focus |
 |---|---|---|
-| **FinPlan** | Education / SaaS | CRM, admissions, student systems |
-| **AI PR Reviewer** | AI / DevTools | Automated GitHub code review |
-| **FinPlan Admin** | Product | Administration & operations |
-| **FinPlan Server** | Backend | APIs, business logic & data |
-| **FinPlan Student Website** | Product | Student-facing experience |
-| **Branch POC** | Architecture | Multi-branch workflows |
-| **EduPro** | Product exploration | Education platform concepts |
+| **FourC Health** | Healthcare | Healthcare platform, patient apps, EHR & administration |
+| **Rebound** | Circular Economy | Recycling, material recovery & sustainability |
+| **Ignyte** | Startup Ecosystem | Founders, investors, community & business services |
+| **Xtend** | Real Estate / Data | Subscription APIs, real estate data & enterprise integrations |
+| **EduPro** | Education / SaaS | Student systems, admissions, CRM & education operations |
+| **AI PR Reviewer** | AI / DevTools | AI-powered GitHub code review & developer automation |
+| **Web & Mobile Products** | Product Engineering | React, React Native, APIs & full-stack applications |
+| **Product Engineering** | Architecture | SaaS, APIs, RBAC, integrations & system design |
 
-My GitHub activity is a record of that process — commits, pull requests, prototypes, experiments and iterations.
-
+> Different products. Different industries. One continuous journey of building software.
 ---
 
 ## CURRENTLY EXPLORING
